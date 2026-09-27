@@ -1,0 +1,6 @@
+{
+  "name": "General Tech Hub Pro",
+  "description": "متجر وسوق تقني متطور لبيع وشراء الأجهزة الذكية والإلكترونيات ومستلزمات الذكاء الاصطناعي مع لوحة تحكم للتجار والعملاء",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
